@@ -211,7 +211,7 @@ body main .wrapShortenLink {
 }
 
 body main .wrapShortenLink .wrapForm {
-  background-image: url("../images/bg-shorten-mobile.svg");
+  background-image: url("images/bg-shorten-mobile.svg");
   background-size: 70% 80%;
   background-position-x: right;
   background-repeat: no-repeat;
@@ -662,7 +662,7 @@ body footer .wrapBoostLinks {
   background-size: 100% 100%;
   text-align: center;
   padding: 40px 0;
-  background-image: url("../images/bg-boost-mobile.svg");
+  background-image: url("images/bg-boost-mobile.svg");
 }
 
 body footer .wrapBoostLinks h2 {
@@ -782,7 +782,7 @@ body footer .footerContact .attribution a {
     padding: 100px 120px 420px;
   }
   body main .wrapShortenLink .wrapForm {
-    background-image: url("../images/bg-shorten-desktop.svg");
+    background-image: url("images/bg-shorten-desktop.svg");
     padding: 40px 0;
     background-size: 100% 100%;
     width: 80%;
@@ -889,7 +889,7 @@ body footer .footerContact .attribution a {
     bottom: -75%;
   }
   body footer .wrapBoostLinks {
-    background-image: url("../images/bg-boost-desktop.svg");
+    background-image: url("images/bg-boost-desktop.svg");
     padding: 80px 0;
   }
   body footer .footerContact {
